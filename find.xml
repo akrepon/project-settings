@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\DEV\Magnolia\cms-webapp [cms-webapp]'" />
-    <option name="defaultScopeName" value="Directory 'C:\DEV\Magnolia\cms-webapp [cms-webapp]'" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\DEV\Magnolia\cms-webapp [cms-webapp]'" />
+    <option name="customScope" value="Project 'Backend'" />
+    <option name="defaultScopeName" value="Project 'Backend'" />
+    <option name="SEARCH_SCOPE" value="Project 'Backend'" />
   </component>
 </application>
